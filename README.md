@@ -21,3 +21,9 @@ Fixation probability, Complex systems
 </div>
 
 
+**Fixation Probability**:  
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=10-kD0CwZBVNMFa41-Qfs4QoCUnyZHkjE" 
+       alt="NetPolyGen Website" width="1000"/>
+</div>
