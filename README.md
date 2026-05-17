@@ -17,7 +17,7 @@ Fixation probability, Complex systems
 
 <div style="display: flex; gap: 10px;">
   <img src="https://drive.google.com/uc?export=view&id=10IKjut4Mi3N6KSJDu3NbJpT6ciNXPg_p" 
-       alt="NetPolyGen Website" width="1000"/>
+       alt="NetPolyGen Website" width="500"/>
 </div>
 
 
@@ -25,5 +25,5 @@ Fixation probability, Complex systems
 
 <div style="display: flex; gap: 10px;">
   <img src="https://drive.google.com/uc?export=view&id=10-kD0CwZBVNMFa41-Qfs4QoCUnyZHkjE" 
-       alt="NetPolyGen Website" width="1000"/>
+       alt="NetPolyGen Website" width="500"/>
 </div>
