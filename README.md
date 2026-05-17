@@ -11,3 +11,13 @@ Evolutionary dynamics investigates how this fixation probability is influenced b
 Keywords:
 Evolutionary dynamics, Evolutionary graph theory, Moran process, Fixation time,
 Fixation probability, Complex systems
+
+**Fixation Time**:  
+
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=10IKjut4Mi3N6KSJDu3NbJpT6ciNXPg_p" 
+       alt="NetPolyGen Website" width="1000"/>
+</div>
+
+
