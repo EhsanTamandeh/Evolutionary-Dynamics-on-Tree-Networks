@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange)
+<div align="center">
+    <h1>NetPolyGen</h1>
+    
+</div>
+
+
 # Effect of Evolutionary Dynamics on Networks with Tree structure
 Abstract:
 
